@@ -37,28 +37,33 @@ h2 {
 .hat-text {
   width: 100%;
   height: 62.5rem;
+  margin: none;
 }
 .unicorn {
   position: absolute;
   width: 12.5rem;
   height: 12.5rem;
-  position: absolute;
+  display: flex;
+  justify-content: space-between;
   display: inline-block;
-  margin-top: 18.7rem;
-  margin-left: 17.5rem;
+  margin-top: 30%;
+  margin-left: 15%;
 
 }
 .unicorn2 {
   position: absolute;
   width: 12.5rem;
   height: 12.5rem;
-  position: absolute;
+  display: flex;
+  justify-content: space-between;
   display: inline-block;
-  margin-top: 18.75rem;
-  margin-left: 850px;
+  margin-top: 10%;
+  margin-right: 20%;
 
 }
 .bday {
+  display: flex;
+  justify-content: center;
 
 }
 .top {
